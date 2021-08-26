@@ -21,7 +21,7 @@
 title: De Lichtwortel
 email: delichtwortel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  De lichtwortel, free to learn
+  De lichtwortel, school van het leven
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: hoondert.github.io
 url: https://delichtwortel.nl # the base hostname & protocol for your site, e.g. http://example.com
